@@ -1,5 +1,6 @@
 #include "monty.h"
 
+allocated_t mem;
 /**
  * main - Main entry
  * Description: Monty bytecodes files interpreter
